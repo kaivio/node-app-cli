@@ -1,0 +1,12 @@
+{
+  "name": "node-app-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "node-app-demo": "./cli_main.js"
+  },
+  "scripts": {},
+  "repository": "git@github.com:kaivio/node-app-cli.git",
+  "author": "kaivio <kaivio@github.com>",
+  "license": "MIT"
+}
